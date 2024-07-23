@@ -15,6 +15,7 @@
 - [作业2(选修)](https://github.com/swowk/DL-NLP-LLM-L1/blob/main/1.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80/assignment2_2.ipynb)
 
 ## 环境安装：
+- 快速开始：[在线Notebook](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/06695f8f7276d004f3228334de7a29d3c8d84ced?urlpath=lab%2Ftree%2F1.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%2Fassignment2_2.ipynb)
 - 作业需要 Python 以及相关包，请自行搜索
 - **本目录下的文件夹内为作业所需资源，请一并导入至作业文件所在目录**
 - 作业需要在 Jupyter 环境下使用：https://jupyter.org/install
