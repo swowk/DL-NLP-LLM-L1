@@ -7,7 +7,7 @@
 - 学习范围：P25 ~ P35
 
 ## 编程作业：
-- [作业3](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/06695f8f7276d004f3228334de7a29d3c8d84ced?urlpath=lab%2Ftree%2F1.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%2Fassignment2_1.ipynb)
+- [作业3](https://hub.binder.curvenote.dev/user/swowk-dl-nlp-llm-l1-3gabq2o8/lab/tree/2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/assignment3.ipynb)
 
 ## 环境安装：
 - **快速开始：点击上节的作业链接，在线编写**
