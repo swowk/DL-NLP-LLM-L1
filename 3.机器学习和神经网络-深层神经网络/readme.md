@@ -7,7 +7,8 @@
 - 学习范围：P36 ~ P43
 
 ## 编程作业：
-- [作业3](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/517ad8d6f44818388337b13e0fea5b0e7711c78f?urlpath=lab%2Ftree%2F2.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E6%B5%85%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2Fassignment3.ipynb)
+- [作业4-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/8fb2b3db94db15f4b7c2c08405d6bf0de8e8c977?urlpath=lab%2Ftree%2F3.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E6%B7%B1%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2Fassignment4_1.ipynb)
+- [作业4-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/8fb2b3db94db15f4b7c2c08405d6bf0de8e8c977?urlpath=lab%2Ftree%2F3.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E6%B7%B1%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2Fassignment4_2.ipynb)
 
 ## 环境安装：
 - **快速开始：点击上节的作业链接，在线编写**
