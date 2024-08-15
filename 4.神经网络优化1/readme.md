@@ -7,8 +7,9 @@
 - 学习范围：P47 ~ P60
 
 ## 编程作业：
-- [作业4-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/8fb2b3db94db15f4b7c2c08405d6bf0de8e8c977?urlpath=lab%2Ftree%2F3.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E6%B7%B1%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2Fassignment4_1.ipynb)
-- [作业4-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/8fb2b3db94db15f4b7c2c08405d6bf0de8e8c977?urlpath=lab%2Ftree%2F3.%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E6%B7%B1%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2Fassignment4_2.ipynb)
+- [作业5-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/9cb26182192de7f59018b9a2e839357f59b75a41?urlpath=lab%2Ftree%2F4.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%961%2F1.Initialization.ipynb)
+- [作业5-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/9cb26182192de7f59018b9a2e839357f59b75a41?urlpath=lab%2Ftree%2F4.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%961%2F2.Regularization.ipynb)
+- [作业5-3](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/9cb26182192de7f59018b9a2e839357f59b75a41?urlpath=lab%2Ftree%2F4.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%961%2F3.Gradient%2BChecking.ipynb)
 
 ## 环境安装：
 - **快速开始：点击上节的作业链接，在线编写**
