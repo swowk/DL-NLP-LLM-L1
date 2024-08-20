@@ -7,9 +7,7 @@
 - 学习范围：P61 ~ P80
 
 ## 编程作业：
-- [作业5-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/9cb26182192de7f59018b9a2e839357f59b75a41?urlpath=lab%2Ftree%2F4.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%961%2F1.Initialization.ipynb)
-- [作业5-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/9cb26182192de7f59018b9a2e839357f59b75a41?urlpath=lab%2Ftree%2F4.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%961%2F2.Regularization.ipynb)
-- [作业5-3](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/9cb26182192de7f59018b9a2e839357f59b75a41?urlpath=lab%2Ftree%2F4.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%961%2F3.Gradient%2BChecking.ipynb)
+- [作业6-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/8d2ba9f4e4f91e449848ecff672f8419954af892?urlpath=lab%2Ftree%2F5.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%962%2FOptimization%2Bmethods.ipynb)
 
 ## 环境安装：
 - **快速开始：点击上节的作业链接，在线编写**
