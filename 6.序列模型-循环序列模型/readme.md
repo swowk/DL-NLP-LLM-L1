@@ -4,7 +4,7 @@
 
 ## 课程视频：
 - 视频链接：https://www.bilibili.com/video/BV1FT4y1E74V
-- 学习范围：P61 ~ P80
+- 学习范围：P151 ~ P162
 
 ## 编程作业：
 - [作业6-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/8d2ba9f4e4f91e449848ecff672f8419954af892?urlpath=lab%2Ftree%2F5.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%962%2FOptimization%2Bmethods.ipynb)
