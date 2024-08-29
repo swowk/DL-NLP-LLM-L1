@@ -7,8 +7,9 @@
 - 学习范围：P151 ~ P162
 
 ## 编程作业：
-- [作业6-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/8d2ba9f4e4f91e449848ecff672f8419954af892?urlpath=lab%2Ftree%2F5.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%962%2FOptimization%2Bmethods.ipynb)
-
+- [作业7-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/41d8a25f1951f074a026365b9ab6fe0d28d50b61?urlpath=lab%2Ftree%2F6.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E5%BE%AA%E7%8E%AF%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B%2FBuilding%20a%20Recurrent%20Neural%20Network%20-Step%20by%20Step%2FBuilding%20a%20Recurrent%20Neural%20Network-Step%20by%20Step-v3.ipynb)
+- [作业7-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/41d8a25f1951f074a026365b9ab6fe0d28d50b61?urlpath=lab%2Ftree%2F6.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E5%BE%AA%E7%8E%AF%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B%2FDinosaur%20lsland%20--Character%20-level%20language%20model%2FDinosaurus%20Island--Character-level%20language%20model-(final)-learners.ipynb)
+- [作业7-3](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/41d8a25f1951f074a026365b9ab6fe0d28d50b61?urlpath=lab%2Ftree%2F6.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E5%BE%AA%E7%8E%AF%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B%2FJazz%20improvisation%20with%20LSTM%2FImprovise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network-v2.ipynb)
 ## 环境安装：
 - **快速开始：点击上节的作业链接，在线编写**
 - 作业需要 Python 以及相关包，请自行搜索
