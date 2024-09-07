@@ -7,8 +7,8 @@
 - 学习范围：P163 ~ P172
 
 ## 编程作业：
-- [作业8-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/41d8a25f1951f074a026365b9ab6fe0d28d50b61?urlpath=lab%2Ftree%2F6.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E5%BE%AA%E7%8E%AF%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B%2FBuilding%20a%20Recurrent%20Neural%20Network%20-Step%20by%20Step%2FBuilding%20a%20Recurrent%20Neural%20Network-Step%20by%20Step-v3.ipynb)
-- [作业8-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/41d8a25f1951f074a026365b9ab6fe0d28d50b61?urlpath=lab%2Ftree%2F6.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E5%BE%AA%E7%8E%AF%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B%2FDinosaur%20lsland%20--Character%20-level%20language%20model%2FDinosaurus%20Island--Character-level%20language%20model-(final)-learners.ipynb)
+- [作业8-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/95d05b73f99a83a71bea9c6350d38bf3cd90f1d1?urlpath=lab%2Ftree%2F7.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E8%AF%8D%E5%B5%8C%E5%85%A5%2FEmojify1%2FEmojify-v2.ipynb)
+- [作业8-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/95d05b73f99a83a71bea9c6350d38bf3cd90f1d1?urlpath=lab%2Ftree%2F7.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E8%AF%8D%E5%B5%8C%E5%85%A5%2FWord%20Vector%20Representation1%2FOperations%20on%20word%20vectors-v2.ipynb)
 ## 环境安装：
 - **快速开始：点击上节的作业链接，在线编写**
 - 作业需要 Python 以及相关包，请自行搜索
