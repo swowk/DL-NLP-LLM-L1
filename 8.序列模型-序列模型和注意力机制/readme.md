@@ -7,8 +7,8 @@
 - 学习范围：P173 ~ P182
 
 ## 编程作业：
-- [作业8-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/95d05b73f99a83a71bea9c6350d38bf3cd90f1d1?urlpath=lab%2Ftree%2F7.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E8%AF%8D%E5%B5%8C%E5%85%A5%2FEmojify1%2FEmojify-v2.ipynb)
-- [作业8-2](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/95d05b73f99a83a71bea9c6350d38bf3cd90f1d1?urlpath=lab%2Ftree%2F7.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E4%B8%8E%E8%AF%8D%E5%B5%8C%E5%85%A5%2FWord%20Vector%20Representation1%2FOperations%20on%20word%20vectors-v2.ipynb)
+- [作业9-1](https://mybinder.org/v2/gh/swowk/DL-NLP-LLM-L1/f6d946a9c69e6542ef82148bc5b1a62cf696184b?urlpath=lab%2Ftree%2F8.%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B-%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8B%E5%92%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%2FNeural%20Machine%20Translation%20with%20Attention%2FNeural%20machine%20translation%20with%20attention-v3.ipynb)
+  
 ## 环境安装：
 - **快速开始：点击上节的作业链接，在线编写**
 - 作业需要 Python 以及相关包，请自行搜索
